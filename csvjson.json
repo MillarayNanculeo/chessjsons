@@ -1,162 +1,162 @@
 [
   {
     "colour": "black",
-    "piece-position": "rook-a8",
+    "piece_position": "rook-a8",
     "surv_rate": 55.20
   },
   {
     "colour": "black",
-    "piece-position": "knight-b8",
+    "piece_position": "knight-b8",
     "surv_rate": 28.20
   },
   {
     "colour": "black",
-    "piece-position": "bishop-c8",
+    "piece_position": "bishop-c8",
     "surv_rate": 34.10
   },
   {
     "colour": "black",
-    "piece-position": "queen-d8",
+    "piece_position": "queen-d8",
     "surv_rate": 48.60
   },
   {
     "colour": "black",
-    "piece-position": "king-e8",
+    "piece_position": "king-e8",
     "surv_rate": 100
   },
   {
     "colour": "black",
-    "piece-position": "bishop-f8",
+    "piece_position": "bishop-f8",
     "surv_rate": 35.40
   },
   {
     "colour": "black",
-    "piece-position": "knight-g8",
+    "piece_position": "knight-g8",
     "surv_rate": 25.90
   },
   {
     "colour": "black",
-    "piece-position": "rook-h8",
+    "piece_position": "rook-h8",
     "surv_rate": 54.80
   },
   {
     "colour": "black",
-    "piece-position": "pawn-a7",
+    "piece_position": "pawn-a7",
     "surv_rate": 65.90
   },
   {
     "colour": "black",
-    "piece-position": "pawn-b7",
+    "piece_position": "pawn-b7",
     "surv_rate": 56.00
   },
   {
     "colour": "black",
-    "piece-position": "pawn-c7",
+    "piece_position": "pawn-c7",
     "surv_rate": 34.30
   },
   {
     "colour": "black",
-    "piece-position": "pawn-d7",
+    "piece_position": "pawn-d7",
     "surv_rate": 31.70
   },
   {
     "colour": "black",
-    "piece-position": "pawn-e7",
+    "piece_position": "pawn-e7",
     "surv_rate": 41.40
   },
   {
     "colour": "black",
-    "piece-position": "pawn-f7",
+    "piece_position": "pawn-f7",
     "surv_rate": 58.30
   },
   {
     "colour": "black",
-    "piece-position": "pawn-g7",
+    "piece_position": "pawn-g7",
     "surv_rate": 66.30
   },
   {
     "colour": "black",
-    "piece-position": "pawn-h7",
+    "piece_position": "pawn-h7",
     "surv_rate": 72.30
   },
   {
     "colour": "white",
-    "piece-position": "rook-a1",
+    "piece_position": "rook-a1",
     "surv_rate": 55.20
   },
   {
     "colour": "white",
-    "piece-position": "knight-b1",
+    "piece_position": "knight-b1",
     "surv_rate": 27.00
   },
   {
     "colour": "white",
-    "piece-position": "bishop-c1",
+    "piece_position": "bishop-c1",
     "surv_rate": 32.40
   },
   {
     "colour": "white",
-    "piece-position": "queen-d1",
+    "piece_position": "queen-d1",
     "surv_rate": 49.20
   },
   {
     "colour": "white",
-    "piece-position": "king-e1",
+    "piece_position": "king-e1",
     "surv_rate": 100
   },
   {
     "colour": "white",
-    "piece-position": "bishop-f1",
+    "piece_position": "bishop-f1",
     "surv_rate": 36.30
   },
   {
     "colour": "white",
-    "piece-position": "knight-g1",
+    "piece_position": "knight-g1",
     "surv_rate": 26.60
   },
   {
     "colour": "white",
-    "piece-position": "rook-h1",
+    "piece_position": "rook-h1",
     "surv_rate": 55.60
   },
   {
     "colour": "white",
-    "piece-position": "pawn-a2",
+    "piece_position": "pawn-a2",
     "surv_rate": 66.60
   },
   {
     "colour": "white",
-    "piece-position": "pawn-b2",
+    "piece_position": "pawn-b2",
     "surv_rate": 59.30
   },
   {
     "colour": "white",
-    "piece-position": "pawn-c2",
+    "piece_position": "pawn-c2",
     "surv_rate": 41.80
   },
   {
     "colour": "white",
-    "piece-position": "pawn-d2",
+    "piece_position": "pawn-d2",
     "surv_rate": 24.50
   },
   {
     "colour": "white",
-    "piece-position": "pawn-e2",
+    "piece_position": "pawn-e2",
     "surv_rate": 36.00
   },
   {
     "colour": "white",
-    "piece-position": "pawn-f2",
+    "piece_position": "pawn-f2",
     "surv_rate": 59.90
   },
   {
     "colour": "white",
-    "piece-position": "pawn-g2",
+    "piece_position": "pawn-g2",
     "surv_rate": 69.00
   },
   {
     "colour": "white",
-    "piece-position": "pawn-h2",
+    "piece_position": "pawn-h2",
     "surv_rate": 73.90
   }
 ]
