@@ -1,0 +1,58 @@
+[
+  {
+    "Column1": "Tournaments\n1851–1878",
+    "White wins": "45.52%",
+    "Drawn": "14.07%",
+    "Black wins": "40.41%",
+    "Total score for White": "52.55%"
+  },
+  {
+    "Column1": "Tournaments\n1881–1914",
+    "White wins": "36.89%",
+    "Drawn": "31.76%",
+    "Black wins": "31.35%",
+    "Total score for White": "52.77%"
+  },
+  {
+    "Column1": "Tournaments\n1919–1932",
+    "White wins": "36.98%",
+    "Drawn": "36.98%",
+    "Black wins": "26.04%",
+    "Total score for White": "55.47%"
+  },
+  {
+    "Column1": "Tournaments\noverall 1851–1932",
+    "White wins": "38.12%",
+    "Drawn": "30.56%",
+    "Black wins": "31.31%",
+    "Total score for White": "53.40%"
+  },
+  {
+    "Column1": "New in Chess\ndatabase 2000",
+    "White wins": "N/A",
+    "Drawn": "N/A",
+    "Black wins": "N/A",
+    "Total score for White": "54.8%"
+  },
+  {
+    "Column1": "World Blitz Chess\nChampionship 2009",
+    "White wins": "38.96%",
+    "Drawn": "26.41%",
+    "Black wins": "34.63%",
+    "Total score for White": "52.16%"
+  },
+  {
+    "Column1": "CEGT chess\nengines results\n(40/120) 2009",
+    "White wins": "34.7%",
+    "Drawn": "41.3%",
+    "Black wins": "24.0%",
+    "Total score for White": "55.4%"
+  },
+  {
+    "Column1": "Chessgames.com\ndatabase 2015",
+    "White wins": "37.50%",
+    "Drawn": "34.90%",
+    "Black wins": "27.60%",
+    "Total score for White": "54.95%"
+  }
+]
