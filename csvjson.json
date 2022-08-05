@@ -2,161 +2,161 @@
   {
     "colour": "black",
     "piece-position": "rook-a8",
-    "surv_rate": "55,20%"
+    "surv_rate": 55.20
   },
   {
-    "colour": "black",
+    "colour": "black,
     "piece-position": "knight-b8",
-    "surv_rate": "28,20%"
+    "surv_rate": 28.20
   },
   {
     "colour": "black",
     "piece-position": "bishop-c8",
-    "surv_rate": "34,10%"
+    "surv_rate": 34.10
   },
   {
     "colour": "black",
     "piece-position": "queen-d8",
-    "surv_rate": "48,60%"
+    "surv_rate": 48.60
   },
   {
     "colour": "black",
     "piece-position": "king-e8",
-    "surv_rate": "100%"
+    "surv_rate": 100
   },
   {
     "colour": "black",
     "piece-position": "bishop-f8",
-    "surv_rate": "35,40%"
+    "surv_rate": 35.40
   },
   {
     "colour": "black",
     "piece-position": "knight-g8",
-    "surv_rate": "25,90%"
+    "surv_rate": 25.90
   },
   {
     "colour": "black",
     "piece-position": "rook-h8",
-    "surv_rate": "54,80%"
+    "surv_rate": 54.80
   },
   {
     "colour": "black",
     "piece-position": "pawn-a7",
-    "surv_rate": "65,90%"
+    "surv_rate": 65.90
   },
   {
     "colour": "black",
     "piece-position": "pawn-b7",
-    "surv_rate": "56,00%"
+    "surv_rate": 56.00
   },
   {
     "colour": "black",
     "piece-position": "pawn-c7",
-    "surv_rate": "34,30%"
+    "surv_rate": 34.30
   },
   {
     "colour": "black",
     "piece-position": "pawn-d7",
-    "surv_rate": "31,70%"
+    "surv_rate": 31.70
   },
   {
     "colour": "black",
     "piece-position": "pawn-e7",
-    "surv_rate": "41,40%"
+    "surv_rate": 41.40
   },
   {
     "colour": "black",
     "piece-position": "pawn-f7",
-    "surv_rate": "58,30%"
+    "surv_rate": 58.30
   },
   {
     "colour": "black",
     "piece-position": "pawn-g7",
-    "surv_rate": "66,30%"
+    "surv_rate": 66.30
   },
   {
     "colour": "black",
     "piece-position": "pawn-h7",
-    "surv_rate": "72,30%"
+    "surv_rate": 72.30
   },
   {
     "colour": "white",
     "piece-position": "rook-a1",
-    "surv_rate": "55,20%"
+    "surv_rate": 55.20
   },
   {
     "colour": "white",
     "piece-position": "knight-b1",
-    "surv_rate": "27,00%"
+    "surv_rate": 27.00
   },
   {
     "colour": "white",
     "piece-position": "bishop-c1",
-    "surv_rate": "32,40%"
+    "surv_rate": 32.40
   },
   {
     "colour": "white",
     "piece-position": "queen-d1",
-    "surv_rate": "49,20%"
+    "surv_rate": 49.20
   },
   {
     "colour": "white",
     "piece-position": "king-e1",
-    "surv_rate": "100%"
+    "surv_rate": 100
   },
   {
     "colour": "white",
     "piece-position": "bishop-f1",
-    "surv_rate": "36,30%"
+    "surv_rate": 36.30
   },
   {
     "colour": "white",
     "piece-position": "knight-g1",
-    "surv_rate": "26,60%"
+    "surv_rate": 26.60
   },
   {
     "colour": "white",
     "piece-position": "rook-h1",
-    "surv_rate": "55,60%"
+    "surv_rate": 55.60
   },
   {
     "colour": "white",
     "piece-position": "pawn-a2",
-    "surv_rate": "66,60%"
+    "surv_rate": 66.60
   },
   {
     "colour": "white",
     "piece-position": "pawn-b2",
-    "surv_rate": "59,30%"
+    "surv_rate": 59.30
   },
   {
     "colour": "white",
     "piece-position": "pawn-c2",
-    "surv_rate": "41,80%"
+    "surv_rate": 41.80
   },
   {
     "colour": "white",
     "piece-position": "pawn-d2",
-    "surv_rate": "24,50%"
+    "surv_rate": 24.50
   },
   {
     "colour": "white",
     "piece-position": "pawn-e2",
-    "surv_rate": "36,00%"
+    "surv_rate": 36.00
   },
   {
     "colour": "white",
     "piece-position": "pawn-f2",
-    "surv_rate": "59,90%"
+    "surv_rate": 59.90
   },
   {
     "colour": "white",
     "piece-position": "pawn-g2",
-    "surv_rate": "69,00%"
+    "surv_rate": 69.00
   },
   {
     "colour": "white",
     "piece-position": "pawn-h2",
-    "surv_rate": "73,90%"
+    "surv_rate": 73.90
   }
 ]
